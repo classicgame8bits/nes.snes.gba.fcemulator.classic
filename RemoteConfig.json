@@ -1,0 +1,24 @@
+{
+    "packageName": "nes.snes.gba.fcemulator.classic",
+    "forceUpdate": false,
+    "forceUpdateContent": "GAME is removed on store!\nSupport us and PLAY MORE GAMES\nin new version!",
+    "forceUpdateUrl": "market://details?id=EMPTY",
+    "checkClone": false,
+    "reviewVersion": 1,
+    "showNESGamesTimeDelay": 10000,
+    "adsNetwork": 0,
+    "adsType": 0,
+    "numberPressToShowAds": 15,
+    "showBannerMenu": false,
+    "showBannerPlay": false,
+    "requireInternetToPlay": false,
+    "showNewGames": false,
+    "newGames": [
+        {
+            "name": "NES Classic Edition",
+            "imgUrl": "https://raw.githubusercontent.com/classicgame8bits/retro.games.nostalgia.games/main/nes.png",
+            "downloadUrl": "https://amzn.to/3g1eQY4",
+            "countryCode": "us"
+        }
+    ]
+}
